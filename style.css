@@ -1,0 +1,98 @@
+body{
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+   color: rgba(0, 0, 0, 0.697);
+}
+.parent1{
+  
+    background-image: url(../images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+   
+}
+p{
+    color: gray;
+}
+.child1{
+    text-align: center;
+    padding-top: 100px;
+}
+ .boton1{
+    border-radius: 17px;
+    height: 40px;
+    width: 175px;
+    color: aliceblue;
+    background-color: rgb(44, 177, 133);
+    border:0;
+    margin: 10px;
+    box-shadow: 0 4px 6px rgb(70, 148, 122);
+ }      
+  .boton2{
+    border-radius: 17px;
+    height: 40px;
+    width: 175px;
+    color: aliceblue;
+    background-color: rgb(44, 75, 177);
+    border:0;
+    margin: 10px;
+    box-shadow: 0 4px 6px rgba(72, 74, 79, 0.249);
+ }  
+ .parent2{
+    text-align: center;
+    padding: 100px;
+ }     
+ .child{
+   float: left;
+   padding: 30px;
+ }
+ .parent4{
+    text-align: center;
+   
+    padding: 150px 300px;
+    float: right;
+ }
+ .parent5{
+    text-align: center;
+ }
+ .parent6{
+    text-align: center;
+    margin: 80px;
+ }
+.child3{
+     float: left;
+    text-align: center;
+    padding-left: 200px;
+     }   .child4{
+     float: left;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+     }   .child5{
+     float: left;
+    text-align: center;
+    padding-right: 100px;
+     }   
+.images{
+   float: right;
+margin: 75px;
+}
+.parent7{
+    text-align: center;
+    padding: 150px 350px;
+}
+footer{
+background-color: whitesmoke;
+text-align: center;
+
+}
+table{
+width: 90%;
+height: 150px;
+padding: 50px;
+}
+td{
+ text-align: left;
+ color: black;
+}
